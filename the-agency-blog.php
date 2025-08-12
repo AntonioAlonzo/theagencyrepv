@@ -76,12 +76,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="blog-the-agency-order-mauricio-umansky-new-book.php">
+                  <a href="blog-the-agency-order-mauricio-umansky-new-book">
                   <img src="images/blog/blog-deal-maker-thumb.jpg" alt=" MAURICIO UMANSKY RANKED ON SWANEPOEL POWER 200 LIST" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="blog-the-agency-order-mauricio-umansky-new-book.php">
+                      <a href="blog-the-agency-order-mauricio-umansky-new-book">
               ORDER MAURICIO UMANSKY’S NEW BOOK: THE DEALMAKER, OUT NOW
 
 
@@ -101,12 +101,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="blog-the-agency-mauricio-umansky-ranked-on-swanepoel.php">
+                  <a href="blog-the-agency-mauricio-umansky-ranked-on-swanepoel">
                   <img src="images/blog/blog-mauricio-thumb.jpg" alt=" MAURICIO UMANSKY RANKED ON SWANEPOEL POWER 200 LIST" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="blog-the-agency-mauricio-umansky-ranked-on-swanepoel.php">
+                      <a href="blog-the-agency-mauricio-umansky-ranked-on-swanepoel">
               MAURICIO UMANSKY RANKED ON SWANEPOEL POWER 200 LIST
 
 
@@ -125,12 +125,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="blog-the-agency-montana.php">
+                  <a href="blog-the-agency-montana">
                   <img src="images/blog/blog-montana-thumb.jpg" alt=" THE AGENCY ARRIVES IN BOZEMAN, MONTANA" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="blog-the-agency-montana.php">
+                      <a href="blog-the-agency-montana">
                THE AGENCY ARRIVES IN BOZEMAN, MONTANA
 
 
@@ -149,12 +149,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="blog-tierra-tropical-beach-club.php">
+                  <a href="blog-tierra-tropical-beach-club">
                   <img src="images/blog/blog-tierra-tropical-thumb.jpg" alt="DELIGHT YOUR SENSES AT TIERRA TROPICAL BEACH CLUB" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="blog-tierra-tropical-beach-club.php">
+                      <a href="blog-tierra-tropical-beach-club">
                 DELIGHT YOUR SENSES AT TIERRA TROPICAL BEACH CLUB
 
 
@@ -176,12 +176,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="blog-the-agency-among-fastest-growing-private-companies.php">
+                  <a href="blog-the-agency-among-fastest-growing-private-companies">
                   <img src="images/blog/blog-inc-5000-thumb.jpg" alt="INC. 5000 NAMES THE AGENCY AMONG FASTEST-GROWING PRIVATE COMPANIES FOR 7TH YEAR" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="blog-the-agency-among-fastest-growing-private-companies.php">
+                      <a href="blog-the-agency-among-fastest-growing-private-companies">
                 INC. 5000 NAMES THE AGENCY AMONG FASTEST-GROWING PRIVATE COMPANIES FOR 7TH YEAR
 
 
@@ -201,12 +201,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="the-agency-vallarta-blog-new-restaurants-puerto-vallarta.php">
+                  <a href="the-agency-vallarta-blog-new-restaurants-puerto-vallarta">
                   <img src="images/blog/blog-new-restaurants.jpg" alt=" Puerto Vallarta New Restaurants" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="the-agency-vallarta-blog-new-restaurants-puerto-vallarta.php">
+                      <a href="the-agency-vallarta-blog-new-restaurants-puerto-vallarta">
                           NEW RESTAURANTS IN PUERTO VALLARTA
                       </a>
                     </h6>
@@ -225,12 +225,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                  <a href="the-agency-vallarta-blog-mexico-open-vidanta.php">
+                  <a href="the-agency-vallarta-blog-mexico-open-vidanta">
                   <img src="images/blog/blog-mexico-open-vidanta-thumb.jpg" alt=" Mexico Open at Vidanta" width="886" height="668"/>
                       </a>
                 <div class="post-classic-title post-classic-title-icon ">
                   <h6 class="text-center">
-                      <a href="the-agency-vallarta-blog-mexico-open-vidanta.php">
+                      <a href="the-agency-vallarta-blog-mexico-open-vidanta">
                           Mexico Open at Vidanta
                       </a>
                     </h6>

@@ -40,12 +40,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                   <a href="properties-tulum-naj-kiin.php">
+                   <a href="properties-tulum-naj-kiin">
                   <img src="images/properties/tulum/naj-kiin/naj-kiin-thumb.jpg" alt="" width="886" height="668"/>
                    </a>
                 <div class="post-classic-title post-classic-title-icon">
                   <h6 class="text-center">
-                      <a href="properties-tulum-naj-kiin.php">
+                      <a href="properties-tulum-naj-kiin">
                           Naj Kiin Aldea Zama
                       </a>
                     </h6>
@@ -63,7 +63,7 @@
                 <div class="post-meta">
                   <div class="group">
                       
-                      <a class="meta-author" href="agent-sally-sudol.php">
+                      <a class="meta-author" href="agent-sally-sudol">
                           By Sally Sudol
                       </a>
                     </div>
@@ -74,12 +74,12 @@
               <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                   <a href="properties-tulum-casa-kevali.php">
+                   <a href="properties-tulum-casa-kevali">
                   <img src="images/properties/tulum/casa-kevali/casa-kevali-thumb.jpg" alt="" width="886" height="668"/>
                    </a>
                 <div class="post-classic-title post-classic-title-icon">
                   <h6 class="text-center">
-                      <a href="properties-tulum-casa-kevali.php">
+                      <a href="properties-tulum-casa-kevali">
                           Casa Kevali Soliman Bay, Tankah Bay
                       </a>
                     </h6>
@@ -99,7 +99,7 @@
                 <div class="post-meta">
                   <div class="group">
                       
-                      <a class="meta-author" href="agent-sally-sudol.php">
+                      <a class="meta-author" href="agent-sally-sudol">
                           By Sally Sudol
                       </a>
                     </div>
@@ -111,12 +111,12 @@
             <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                   <a href="properties-tulum-villa-mar-azul.php">
+                   <a href="properties-tulum-villa-mar-azul">
                   <img src="images/properties/tulum/villa-mar-azul/villa-mar-azul-thumb.jpg" alt="" width="886" height="668"/>
                    </a>
                 <div class="post-classic-title post-classic-title-icon">
                   <h6 class="text-center">
-                      <a href="properties-tulum-villa-mar-azul.php">
+                      <a href="properties-tulum-villa-mar-azul">
                           Villa Mar Azul
                       </a>
                     </h6>
@@ -134,7 +134,7 @@
                 <div class="post-meta">
                   <div class="group">
                       
-                      <a class="meta-author" href="agent-sally-sudol.php">
+                      <a class="meta-author" href="agent-sally-sudol">
                           By Sally Sudol
                       </a>
                     </div>
@@ -145,12 +145,12 @@
             <div class="col-md-6 col-xl-4">
               <!-- Post classic-->
               <article class="post-classic post-minimal">
-                   <a href="properties-tulum-calle-24.php">
+                   <a href="properties-tulum-calle-24">
                   <img src="images/properties/tulum/calle-24-sur/calle-24-sur-thumb.jpg" alt="" width="886" height="668"/>
                    </a>
                 <div class="post-classic-title post-classic-title-icon">
                   <h6 class="text-center">
-                      <a href="properties-tulum-calle-24.php">
+                      <a href="properties-tulum-calle-24">
                           Calle 24 Sur Entre calle 19 Pte y Calle 21 Pte
                       </a>
                     </h6>
@@ -171,7 +171,7 @@
                 <div class="post-meta">
                   <div class="group">
                       
-                      <a class="meta-author" href="agent-sally-sudol.php">
+                      <a class="meta-author" href="agent-sally-sudol">
                           By Sally Sudol
                       </a>
                     </div>

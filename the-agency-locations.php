@@ -45,7 +45,7 @@
             
               
               <div class="col-12 col-md-4"> 
-                  <a href="corasol-playa-del-carmen.php">
+                  <a href="corasol-playa-del-carmen">
               <div class="img-thumbnail-variant-3">
                   <img src="images/riviera-maya-location.jpg" alt="" width="652" height="491"/>
                   <span class="label-custom label-white">RIVIERA MAYA</span>

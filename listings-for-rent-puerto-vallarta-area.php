@@ -73,7 +73,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>

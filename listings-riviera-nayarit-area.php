@@ -75,12 +75,12 @@
 				<div class="row row-60">
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-mandarina-villa-53.php">
+							<a href="properties-riviera-nayarit-mandarina-villa-53">
 								<img src="images/properties/riviera-nayarit/mandarina-villa-53/Mandarina-Villa-53.jpg" alt="Mandarina Villa 53" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-mandarina-villa-53.php">
+									<a href="properties-riviera-nayarit-mandarina-villa-53">
 										MANDARINA VILLA 53<br>
 										ONE & ONLY MANDARINA - PRICE $15,500,000 USD<br>
 										8 Beds | 11 Baths | 9,827 Sqft. | MLS #TA8830
@@ -91,7 +91,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -100,12 +100,12 @@
 					</div>
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-villa-taiyari.php">
+							<a href="properties-riviera-nayarit-villa-taiyari">
 								<img src="images/properties/riviera-nayarit/villa-taiyari/Villa-Taiyari.jpg" alt="Villa Taiyari" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-villa-taiyari.php">
+									<a href="properties-riviera-nayarit-villa-taiyari">
 										VILLA TAIYARI<br>
 										PUNTA MITA - PRICE UPON REQUEST<br>
 										8 Beds | 12 Baths | 16,146 Sqft. | MLS #TA9479
@@ -118,7 +118,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -127,12 +127,12 @@
 					</div>
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-casa-brisas.php">
+							<a href="properties-riviera-nayarit-casa-brisas">
 								<img src="images/properties/riviera-nayarit/casa-brisas/Casa-Brisas.jpg" alt="Casa Brisas" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-casa-brisas.php">
+									<a href="properties-riviera-nayarit-casa-brisas">
 										CASA BRISAS<br>
 										CRUZ DE HUANACAXTLE - PRICE $710,704 USD<br>
 										3 Beds | 4 Baths | 3,002.04 Sqft.
@@ -144,7 +144,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-leonardo-jimenez.php">
+									<a class="meta-author" href="agent-leonardo-jimenez">
 										By Leonardo Jimenez
 									</a>
 								</div>
@@ -160,12 +160,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-lote-azul-banderas.php">
+							<a href="properties-riviera-nayarit-lote-azul-banderas">
 								<img src="images/properties/riviera-nayarit/lote-azul-banderas/lote-azul-banderas.jpg" alt="Lote Azul Banderas" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-lote-azul-banderas.php">
+									<a href="properties-riviera-nayarit-lote-azul-banderas">
 										LOTE AZUL BANDERAS<br>
 										CARRETERA A PUNTA MITA – PRICE $1,799,790 USD<br>
 										113,91 Sqft.
@@ -179,7 +179,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>

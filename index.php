@@ -98,7 +98,7 @@
                       <br class="d-none d-lg-block">
                      you'll write the stories
                     </h2>
-                    <a class="button button-primary" href="listings-puerto-vallarta-area.php">FEATURED PROPERTIES</a>
+                    <a class="button button-primary" href="listings-puerto-vallarta-area">FEATURED PROPERTIES</a>
                 </div>
               </div>
             </div>
@@ -162,12 +162,12 @@
               <div class="col-md-6 col-xl-12">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-villa-nube-blanca.php">
+                            <a href="properties-puerto-vallarta-villa-nube-blanca">
                             <img src="images/properties/puerto-vallarta/villa-nube-blanca/Villa-Nube-Blanca.jpg" alt="Condo For Sale Puerto Vallarta" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-villa-nube-blanca.php">
+                      <a href="properties-puerto-vallarta-villa-nube-blanca">
                         VILLA NUBE BLANCA<br>
                         PUERTO VALLARTA - PRICE $3,800,000 USD<br>
 						5 Beds  |  7 Baths  |  15,270 Sqft.  |  MLS #34987
@@ -179,7 +179,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                         By Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -202,7 +202,7 @@
              <div class="col-md-12 col-xl-12 text-center">
                         <!-- Post classic-->
 
-                             <a class="button button-primary" href="listings.php">More Listings</a>
+                             <a class="button button-primary" href="listings">More Listings</a>
 
 
                     </div>
@@ -219,12 +219,12 @@
 				<div class="row row-60">
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-peninsula-8a.php">
+							<a href="properties-puerto-vallarta-peninsula-8a">
 								<img src="images/properties/puerto-vallarta/peninsula-8a/cover.jpg" alt="Peninsula 8A" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-peninsula-8a.php">
+									<a href="properties-puerto-vallarta-peninsula-8a">
 										PENINSULA 8A<br>
 										PUERTO VALLARTA - PRICE $1,290,000 USD<br>
 										4 Beds | 4 Baths | 3,679.38 Sqft. | MLS #38236
@@ -235,7 +235,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -245,12 +245,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-centrika-703.php">
+							<a href="properties-puerto-vallarta-centrika-703">
 								<img src="images/properties/puerto-vallarta/centrika-703/cover.jpg" alt="Centrika 703" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-centrika-703.php">
+									<a href="properties-puerto-vallarta-centrika-703">
 										CENTRIKA 703<br>
 										PUERTO VALLARTA - PRICE $455,000 USD<br>
 										3 Beds | 3 Baths | 1,396.21 Sqft. | MLS #37876
@@ -261,7 +261,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -271,12 +271,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-mandarina-villa-53.php">
+							<a href="properties-riviera-nayarit-mandarina-villa-53">
 								<img src="images/properties/riviera-nayarit/mandarina-villa-53/Mandarina-Villa-53.jpg" alt="Mandarina Villa 53" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-mandarina-villa-53.php">
+									<a href="properties-riviera-nayarit-mandarina-villa-53">
 										MANDARINA VILLA 53<br>
 										ONE & ONLY MANDARINA - PRICE $15,500,000 USD
 										8 Beds  |  11 Baths  |  9,827 Sqft.  |  MLS #TA8830
@@ -287,7 +287,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -297,12 +297,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-icon-ph.php">
+							<a href="properties-puerto-vallarta-icon-ph">
 								<img src="images/properties/puerto-vallarta/icon-ph-2-2805/ICON-PH-2-2805.jpg" alt="Icon PH 2-2805" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-icon-ph.php">
+									<a href="properties-puerto-vallarta-icon-ph">
 										ICON PH 2-2805<br>
 										PUERTO VALLARTA - PRICE $1,590,000 USD<br>
 										3 Beds  |  4 Baths  |  4,380 Sqft.  |  MLS #26479
@@ -314,7 +314,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -325,12 +325,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-villa-taiyari.php">
+							<a href="properties-riviera-nayarit-villa-taiyari">
 								<img src="images/properties/riviera-nayarit/villa-taiyari/Villa-Taiyari.jpg" alt="Villa Taiyari" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-villa-taiyari.php">
+									<a href="properties-riviera-nayarit-villa-taiyari">
 										VILLA TAIYARI<br>
 										PUNTA MITA - PRICE UPON REQUEST<br>
 										8 Beds  |  12 Baths  |  16,146 Sqft.  |  MLS #TA9479
@@ -342,7 +342,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -352,12 +352,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-riviera-nayarit-casa-brisas.php">
+							<a href="properties-riviera-nayarit-casa-brisas">
 								<img src="images/properties/riviera-nayarit/casa-brisas/Casa-Brisas.jpg" alt="Casa Brisas" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-riviera-nayarit-casa-brisas.php">
+									<a href="properties-riviera-nayarit-casa-brisas">
 										CASA BRISAS<br>
 										CRUZ DE HUANACAXTLE - PRICE $710,704 USD<br>
 										3 Beds  |  4 Baths  |  3,002.04 Sqft.
@@ -369,7 +369,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-leonardo-jimenez.php">
+									<a class="meta-author" href="agent-leonardo-jimenez">
 										By Leonardo Jimenez
 									</a>
 								</div>
@@ -385,7 +385,7 @@
 			<div class="container">
 				<div class="row row-50">
 					<div class="col-12 col-md-4">
-						<a href="listings-puerto-vallarta-area.php">
+						<a href="listings-puerto-vallarta-area">
 							<div class="img-thumbnail-variant-3">
 								<img src="images/areas/south-shore.jpg" alt="South Shore" width="652" height="491"/>
 							</div>
@@ -476,7 +476,7 @@
                     <img src="images/team/agent-alejandro-aldrete-main.jpg" alt="Alejandro Aldrete" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-alejandro-aldrete.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-alejandro-aldrete"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 1 322 262 9555"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 1 322 262 9555&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
 
@@ -485,7 +485,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-alejandro-aldrete.php">ALEJANDRO ALDRETE</a>
+                      <a href="agent-alejandro-aldrete">ALEJANDRO ALDRETE</a>
                     </p>
                   <p class="thumb__subtitle">MANAGING PARTNER</p>
                 </div>
@@ -499,7 +499,7 @@
                     <img src="images/team/agent-christian-pierre-main.jpg" alt="Christian Pierre Bernardino Gonzalez" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-christian-pierre.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-christian-pierre"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 552 526 9780"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 552 526 9780&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -507,7 +507,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-christian-pierre.php">Christian Bernardino</a>
+                      <a href="agent-christian-pierre">Christian Bernardino</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -526,7 +526,7 @@
                     <img src="images/team/agent-david-juarez-main.jpg" alt="David De los Ríos Juárez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-david-juarez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-david-juarez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 449 173 2852"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 449 173 2852&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -534,7 +534,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-david-juarez.php">David De los Ríos Juárez</a>
+                      <a href="agent-david-juarez">David De los Ríos Juárez</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -561,7 +561,7 @@
                     <img src="images/agentes/laura-chanes-main.jpg" alt="Laura Chanes" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-laura-chanes.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-laura-chanes"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+5213221427636"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+5213221427636&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -569,7 +569,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-laura-chanes.php">Laura Chanes</a>
+                      <a href="agent-laura-chanes">Laura Chanes</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -585,7 +585,7 @@
                     <img src="images/agentes/agent-leonardo-jimenez.jpg" alt="Leonardo Jimenez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-leonardo-jimenez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-leonardo-jimenez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+523221573163"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+523221573163&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -593,7 +593,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-leonardo-jimenez.php">Leonardo Jimenez</a>
+                      <a href="agent-leonardo-jimenez">Leonardo Jimenez</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -609,7 +609,7 @@
                     <img src="images/team/agent-mauricio-ojeda-main.jpg" alt="Mauricio Ojeda Medina" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-mauricio-ojeda.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-mauricio-ojeda"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 938.128.8203"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 938.128.8203&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -617,7 +617,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-mauricio-ojeda.php">Mauricio Ojeda Medina</a>
+                      <a href="agent-mauricio-ojeda">Mauricio Ojeda Medina</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -631,7 +631,7 @@
                     <img src="images/team/agent-sofia-zavala.jpg" alt="Sofía Zavala" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-sofia-zavala.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-sofia-zavala"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 33 2629 6346"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 33 2629 6346&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -639,7 +639,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-sofia-zavala.php">Sofía Zavala</a>
+                      <a href="agent-sofia-zavala">Sofía Zavala</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -671,7 +671,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">
-                        <a href="our-services.php">
+                        <a href="our-services">
                             RESEARCH & PLANNING
                         </a>
                       </p>
@@ -692,7 +692,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">
-                        <a href="our-services.php">THE AGENCY DEVELOPMENT GROUP</a></p>
+                        <a href="our-services">THE AGENCY DEVELOPMENT GROUP</a></p>
                     <p>So, You're thinking it over.
                         We're happy you are. Selecting a marketing and sales team for your development is a critical step.
                         You'll need a team that brings a little something more to the table. Let us show you exactly
@@ -709,7 +709,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">
-                        <a href="our-services.php">NEW DEVELOPMENTS:</a></p>
+                        <a href="our-services">NEW DEVELOPMENTS:</a></p>
                     <p>The Agency works with the most prominent developers, representing a vast portfolio of
                         pre-construction developments in the area. From pre-development to selling out buildings,
                         we are able to assist. Together with our clients, we are redefining skylines, molding

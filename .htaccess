@@ -1,2 +1,7 @@
 RewriteEngine On
 RewriteRule ^index\.html$ /index.php [L,R=301]
+
+# Quitar .php de las URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^/]+)$ $1.php [L]

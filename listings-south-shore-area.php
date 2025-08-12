@@ -74,12 +74,12 @@
 				<div class="row row-60">
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-villa-nube-blanca.php">
+							<a href="properties-puerto-vallarta-villa-nube-blanca">
 								<img src="images/properties/puerto-vallarta/villa-nube-blanca/Villa-Nube-Blanca.jpg" alt="Villa Nube Blanca" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-villa-nube-blanca.php">
+									<a href="properties-puerto-vallarta-villa-nube-blanca">
 										VILLA NUBE BLANCA<br>
 										PUERTO VALLARTA - PRICE $4,300,000 USD<br>
 										5 Beds | 6.5 Baths | 17,470 Sqft. | MLS #34987
@@ -91,7 +91,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>

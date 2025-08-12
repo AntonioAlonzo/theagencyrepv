@@ -10,7 +10,7 @@
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                 <!-- RD Navbar Brand-->
                 <div class="rd-navbar-brand">
-                    <a class="brand-name" href="index.php">
+                    <a class="brand-name" href="index">
                         <img src="images/logo.svg" alt="The Agency Playa del Carmen" width="120" height="120" srcset="images/logo.svg 2x"/>
                     </a>
                   </div>

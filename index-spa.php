@@ -83,7 +83,7 @@
 
                       <span>The Agency</span></h1>
                   <h3 data-caption-animate="fadeInUpSmall" data-caption-delay="200">Puerto Vallarta & Punta de Mita</h3>
-                   <a class="button button-primary" href="mls.php">BUSCAR PROPIEDADES EN MLS</a>
+                   <a class="button button-primary" href="mls">BUSCAR PROPIEDADES EN MLS</a>
                 </div>
               </div>
             </div>
@@ -112,7 +112,7 @@
                       <br class="d-none d-lg-block">
                      Propiedades Destacadas
                     </h2>
-                    <a class="button button-primary" href="mls.php">BUSCAR EN MLS</a>
+                    <a class="button button-primary" href="mls">BUSCAR EN MLS</a>
                 </div>
               </div>
             </div>
@@ -168,12 +168,12 @@
               <div class="col-md-6 col-xl-12">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-bolivia-5-dic.php">
+                            <a href="properties-puerto-vallarta-bolivia-5-dic">
                             <img src="images/properties/puerto-vallarta/icon-vallarta/icon-ph-cover.jpg" alt="Icon Puerto Vallarta PH 2805" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-icon-ph.php">
+                      <a href="properties-puerto-vallarta-icon-ph">
                         ICON PH 2805<br>
                         AV. DE LAS GARZAS 140, ZONA HOTELERA, PUERTO VALLARTA, JAL.
 
@@ -186,7 +186,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                         Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -209,7 +209,7 @@
              <div class="col-md-12 col-xl-12 text-center">
                         <!-- Post classic-->
 
-                             <a class="button button-primary" href="mls.php">BUSCAR PROPIEDADES EN MLS</a>
+                             <a class="button button-primary" href="mls">BUSCAR PROPIEDADES EN MLS</a>
 
 
                     </div>
@@ -235,12 +235,12 @@
                   <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-almendra.php">
+                            <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-almendra">
                             <img src="images/properties/rentals/casa-almendra/casa-almendra-cover.jpg" alt="Casa Almendra, Punta de Mita " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-almendra.php">
+                      <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-almendra">
                           CASA ALMENDRA<br>
                           LOS VENEROS, PUNTA DE MITA<br>
                            4 Recámaras | 4 Baños | 10 a 12 Habitantes | 418 M2
@@ -256,7 +256,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           Por Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -269,12 +269,12 @@
                   <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-terrenal.php">
+                            <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-terrenal">
                             <img src="images/properties/rentals/casa-terrenal/casa-terrenal-cover-cover.jpg" alt="Casa Terrenal, Punta de Mita " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-terrenal.php">
+                      <a href="https://theagencyrepuntademita.com/properties-for-rent-punta-de-mita-villa-casa-terrenal">
                           CASA TERRAL<br>
                           LAGOS 32, PUNTA MITA, PUNTA DE MITA
                            5 Recámaras | 6 Baños | 10 Habitantes | 743.2 M2
@@ -290,7 +290,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           Por Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -324,7 +324,7 @@
 
 
               <div class="col-12 col-md-4">
-                  <a href="listings.php">
+                  <a href="listings">
               <div class="img-thumbnail-variant-3">
                   <img src="images/services-1.jpg" alt="Listing Puerto Vallarta" width="652" height="491"/>
 
@@ -335,7 +335,7 @@
 
 
               <div class="col-12 col-md-4">
-                  <a href="/listings-for-rent.php">
+                  <a href="/listings-for-rent">
               <div class="img-thumbnail-variant-3">
                   <img src="images/vacation-rentals.jpg" alt="Vacation Rentals Puerto Vallarta" width="652" height="491"/>
 
@@ -345,7 +345,7 @@
             </div>
 
               <div class="col-12 col-md-4">
-                  <a href="lots-for-sale.php">
+                  <a href="lots-for-sale">
               <div class="img-thumbnail-variant-3">
                   <img src="images/lots-for-sale.jpg" alt="Lots for sale puerto vallarta" width="652" height="491"/>
 
@@ -355,7 +355,7 @@
             </div>
 
               <div class="col-12 col-md-4">
-                  <a href="about.php">
+                  <a href="about">
               <div class="img-thumbnail-variant-3">
                   <img src="images/services-5.jpg" alt="Real estate agents puerto vallarta" width="652" height="491"/>
 
@@ -375,7 +375,7 @@
 
 
               <div class="col-12 col-md-4">
-                  <a href="the-agency-blog.php">
+                  <a href="the-agency-blog">
               <div class="img-thumbnail-variant-3">
                   <img src="images/services-6.jpg" alt="The Agency Puerto Vallarta" width="652" height="491"/>
 
@@ -418,7 +418,7 @@
                     <img src="images/team/agent-alejandro-aldrete-main.jpg" alt="Alejandro Aldrete" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="https://theagencyrepuntademita.com/agent-alejandro-aldrete.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="https://theagencyrepuntademita.com/agent-alejandro-aldrete"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 1 322 262 9555"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 1 322 262 9555&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
 
@@ -427,7 +427,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="https://theagencyrepuntademita.com/agent-alejandro-aldrete.php">ALEJANDRO ALDRETE</a>
+                      <a href="https://theagencyrepuntademita.com/agent-alejandro-aldrete">ALEJANDRO ALDRETE</a>
                     </p>
                   <p class="thumb__subtitle">SOCIO GERENTE</p>
                 </div>
@@ -442,7 +442,7 @@
                     <img src="images/agentes/agent-alejandro-hernandez.jpg" alt="Alejandro Hernandez" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="aagent-alejandro-hernandez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="aagent-alejandro-hernandez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 322 146 4225"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 322 146 4225&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
 
@@ -451,7 +451,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-alejandro-hernandez.php">Alejandro Hernández</a>
+                      <a href="agent-alejandro-hernandez">Alejandro Hernández</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -468,7 +468,7 @@
                     <img src="images/team/agent-alfonso-davalos-main.jpg" alt="Alfonso Davalos" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-alfonso-davalos.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-alfonso-davalos"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 322 292 2312"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 322 292 2312&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
 
@@ -477,7 +477,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-alfonso-davalos.php">Alfonso Davalos</a>
+                      <a href="agent-alfonso-davalos">Alfonso Davalos</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -493,7 +493,7 @@
                     <img src="images/team/agent-christian-pierre-main.jpg" alt="Christian Pierre Bernardino Gonzalez" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-christian-pierre.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-christian-pierre"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 552 526 9780"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 552 526 9780&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -501,7 +501,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-christian-pierre.php">Christian Bernardino</a>
+                      <a href="agent-christian-pierre">Christian Bernardino</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -520,7 +520,7 @@
                     <img src="images/team/agent-david-juarez-main.jpg" alt="David De los Ríos Juárez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-david-juarez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-david-juarez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 449 173 2852"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 449 173 2852&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -528,7 +528,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-david-juarez.php">David De los Ríos Juárez</a>
+                      <a href="agent-david-juarez">David De los Ríos Juárez</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -555,7 +555,7 @@
                     <img src="images/agentes/laura-chanes-main.jpg" alt="Laura Chanes" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-laura-chanes.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-laura-chanes"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+5213221427636"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+5213221427636&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -563,7 +563,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-laura-chanes.php">Laura Chanes</a>
+                      <a href="agent-laura-chanes">Laura Chanes</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -579,7 +579,7 @@
                     <img src="images/agentes/agent-leonardo-jimenez.jpg" alt="Leonardo Jimenez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-jose-cedano.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-jose-cedano"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 322 129 9237"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 322 129 9237&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -587,7 +587,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-leonardo-jimenez.php">Leonardo Jiménez</a>
+                      <a href="agent-leonardo-jimenez">Leonardo Jiménez</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -604,7 +604,7 @@
                     <img src="images/team/agent-mauricio-ojeda-main.jpg" alt="Mauricio Ojeda Medina" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-mauricio-ojeda.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-mauricio-ojeda"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 938.128.8203"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 938.128.8203&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -612,7 +612,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-mauricio-ojeda.php">Mauricio Ojeda</a>
+                      <a href="agent-mauricio-ojeda">Mauricio Ojeda</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA</p>
                 </div>
@@ -627,7 +627,7 @@
                     <img src="images/agentes/agent-ben-molina.jpg" alt="Benjamin Molina" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-benjamin-molina.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-benjamin-molina"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 322.166.7745"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 938.128.8203&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -635,7 +635,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-benjamin-molina.php">Benjamín Molina</a>
+                      <a href="agent-benjamin-molina">Benjamín Molina</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUERTO VALLARTA </p>
                 </div>
@@ -649,7 +649,7 @@
                     <img src="images/agentes/agent-ana-carrillo-main.jpg" alt="Ana Carrillo" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="https://theagencyrepuntademita.com/agent-ana-carrillo.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="https://theagencyrepuntademita.com/agent-ana-carrillo"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 322.688.6922"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 984 1811 791&text=Hi%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -657,7 +657,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="https://theagencyrepuntademita.com/agent-ana-carrillo.php">Ana Carrillo</a>
+                      <a href="https://theagencyrepuntademita.com/agent-ana-carrillo">Ana Carrillo</a>
                     </p>
                   <p class="thumb__subtitle">ESPECIALISTA EN RENTAS VACACIONALES</p>
                 </div>
@@ -673,7 +673,7 @@
                     <img src="images/team/agent-cris-gonzalez.jpg" alt="Cris Gonzalez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-cris-gonzalez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-cris-gonzalez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 3222920781"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 (313) 3222920781&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -681,7 +681,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-cris-gonzalez.php">Cris González</a>
+                      <a href="agent-cris-gonzalez">Cris González</a>
                     </p>
                   <p class="thumb__subtitle">AGENTE / PUNTA DE MITA</p>
                 </div>
@@ -717,7 +717,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">
-                        <a href="our-services.php">
+                        <a href="our-services">
                             BÚSQUEDA & PLANEACIÓN
                         </a>
                       </p>
@@ -735,7 +735,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">
-                        <a href="our-services.php">THE AGENCY GRUPO DE DESARROLLO</a></p>
+                        <a href="our-services">THE AGENCY GRUPO DE DESARROLLO</a></p>
                     <p>Así que lo estás pensando.
                         Nos alegra que lo estés haciendo. Seleccionar un equipo de marketing y ventas para tu desarrollo es un paso crítico.
                         Necesitarás un equipo que aporte algo más a la mesa. Permítenos mostrarte exactamente
@@ -752,7 +752,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">
-                        <a href="our-services.php">NUEVOS DESARROLLOS</a></p>
+                        <a href="our-services">NUEVOS DESARROLLOS</a></p>
                     <p>La Agencia trabaja con los desarrolladores más prominentes, representando una amplia cartera de desarrollos en preconstrucción en la zona. Desde la etapa de pre-desarrollo hasta la venta completa de edificios, podemos ayudar. Junto con nuestros clientes, estamos redefiniendo horizontes, moldeando comunidades y creando estilos de vida.
                       </p>
                   </div>

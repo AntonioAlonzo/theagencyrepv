@@ -74,12 +74,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-peninsula-ph-a.php">
+                            <a href="properties-puerto-vallarta-peninsula-ph-a">
                             <img src="images/properties/puerto-vallarta/ph-peninsula/ph-peninsula-thumb.jpg" alt=" PENINSULA PH-A PUERTO VALLARTA" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-peninsula-ph-a.php">
+                      <a href="properties-puerto-vallarta-peninsula-ph-a">
                         PENINSULA PH-A PUERTO VALLARTA<br>
 
 
@@ -92,7 +92,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -105,12 +105,12 @@
                   <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-icon-ph.php">
+                            <a href="properties-puerto-vallarta-icon-ph">
                             <img src="images/properties/puerto-vallarta/icon-vallarta/icon-ph-cover.jpg" alt="Icon Vallarta " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-icon-ph.php">
+                      <a href="properties-puerto-vallarta-icon-ph">
                           ICON PH 2805
 
                       </a>
@@ -123,7 +123,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -159,7 +159,7 @@
              <div class="col-md-12 col-xl-12 text-center">
                         <!-- Post classic-->
 
-                             <a class="button button-primary" href="mls.php">SEARCH PROPERTIES BY MLS</a>
+                             <a class="button button-primary" href="mls">SEARCH PROPERTIES BY MLS</a>
 
 
                     </div>

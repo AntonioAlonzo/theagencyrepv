@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row justify-content-sm-center justify-content-lg-start row-30 row-md-60">
 			<div class="col-sm-10 col-md-4 col-lg-10 col-xl-4">
-                <a class="brand" href="index.php">
+                <a class="brand" href="index">
                     <img src="images/logo.svg" alt="" width="120" height="120" srcset="images/logo.svg 2x"/>
 				</a>
 				<p class="text-justify">The Agency is a full-service, luxury real estate brokerage and
@@ -20,7 +20,7 @@
 					<li>
 						<dl class="list-terms-minimal">
 							<p class="blurb__title heading-6">
-                        		<a href="contacts.php">Puerto Vallarta Office</a>
+                        		<a href="contacts">Puerto Vallarta Office</a>
 							</p>
 							<br>
 							<dd>
@@ -65,7 +65,7 @@
 					<li>
 						<dl class="list-terms-minimal">
 							<p class="blurb__title heading-6">
-                        		<a href="contacts.php">Punta de Mita Office</a>
+                        		<a href="contacts">Punta de Mita Office</a>
 							</p>
 							<br>
 							<dd>

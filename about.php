@@ -76,7 +76,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6 text-center">
-                        <a href="single-service.php">
+                        <a href="single-service">
                             THE AGENCY PUERTO VALLARTA & PUNTA DE MITA
                         </a>
                       </p>
@@ -138,7 +138,7 @@
                     <img src="images/team/agent-alejandro-aldrete-main.jpg" alt="Alejandro Aldrete" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-alejandro-aldrete.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-alejandro-aldrete"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 1 322 262 9555"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 1 322 262 9555&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
 
@@ -147,7 +147,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-alejandro-aldrete.php">ALEJANDRO ALDRETE</a>
+                      <a href="agent-alejandro-aldrete">ALEJANDRO ALDRETE</a>
                     </p>
                   <p class="thumb__subtitle">MANAGING PARTNER</p>
                 </div>
@@ -162,7 +162,7 @@
                     <img src="images/team/agent-christian-pierre-main.jpg" alt="Christian Pierre Bernardino Gonzalez" width="418" height="315"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-christian-pierre.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-christian-pierre"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 552 526 9780"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 552 526 9780&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -170,7 +170,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-christian-pierre.php">Christian Bernardino</a>
+                      <a href="agent-christian-pierre">Christian Bernardino</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -189,7 +189,7 @@
                     <img src="images/team/agent-david-juarez-main.jpg" alt="David De los Ríos Juárez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-david-juarez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-david-juarez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 449 173 2852"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 449 173 2852&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -197,7 +197,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-david-juarez.php">David De los Ríos Juárez</a>
+                      <a href="agent-david-juarez">David De los Ríos Juárez</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -224,7 +224,7 @@
                     <img src="images/agentes/laura-chanes-main.jpg" alt="Laura Chanes" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-laura-chanes.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-laura-chanes"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+5213221427636"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+5213221427636&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -232,7 +232,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-laura-chanes.php">Laura Chanes</a>
+                      <a href="agent-laura-chanes">Laura Chanes</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -248,7 +248,7 @@
                     <img src="images/agentes/agent-leonardo-jimenez.jpg" alt="Leonardo Jimenez" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-leonardo-jimenez.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-leonardo-jimenez"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+523221573163"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+523221573163&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -256,7 +256,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-leonardo-jimenez.php">Leonardo Jimenez</a>
+                      <a href="agent-leonardo-jimenez">Leonardo Jimenez</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -272,7 +272,7 @@
                     <img src="images/team/agent-mauricio-ojeda-main.jpg" alt="Mauricio Ojeda Medina" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-mauricio-ojeda.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-mauricio-ojeda"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 938.128.8203"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 938.128.8203&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -280,7 +280,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-mauricio-ojeda.php">Mauricio Ojeda Medina</a>
+                      <a href="agent-mauricio-ojeda">Mauricio Ojeda Medina</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>
@@ -294,7 +294,7 @@
                     <img src="images/team/agent-sofia-zavala.jpg" alt="Sofía Zavala" width="418" height="415"/>
                   <div class="thumb-corporate__overlay">
                     <ul class="list-inline-sm thumb-corporate__list">
-                      <li><a class="icon-sm fa-envelope icon" href="agent-sofia-zavala.php"></a></li>
+                      <li><a class="icon-sm fa-envelope icon" href="agent-sofia-zavala"></a></li>
                         <li><a class="icon-sm fa-phone icon" href="callto:+52 33 2629 6346"></a></li>
                         <li><a class="icon-sm fa-whatsapp icon" href="https://api.whatsapp.com/send?phone=+52 33 2629 6346&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20." class="float" target="_blank"></a></li>
                     </ul>
@@ -302,7 +302,7 @@
                 </div>
                 <div class="thumb-corporate__caption">
                   <p class="thumb__title">
-                      <a href="agent-sofia-zavala.php">Sofía Zavala</a>
+                      <a href="agent-sofia-zavala">Sofía Zavala</a>
                     </p>
                   <p class="thumb__subtitle">AGENT / PUERTO VALLARTA</p>
                 </div>

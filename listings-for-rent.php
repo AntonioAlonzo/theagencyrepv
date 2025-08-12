@@ -75,7 +75,7 @@
 
 
               <div class="col-12 col-md-6">
-                  <a href="https://theagencyrepuntademita.com/punta-de-mita-rentals.php">
+                  <a href="https://theagencyrepuntademita.com/punta-de-mita-rentals">
               <div class="img-thumbnail-variant-3">
                   <img src="images/bahia-banderas-rentals.jpg" alt="Punta de Mita" width="652" height="491"/>
 
@@ -86,7 +86,7 @@
 
 
               <div class="col-12 col-md-6">
-                  <a href="listings-for-rent-puerto-vallarta-area.php">
+                  <a href="listings-for-rent-puerto-vallarta-area">
               <div class="img-thumbnail-variant-3">
                   <img src="images/vallarta-rentals.jpg" alt="Nuevo Vallarta" width="652" height="491"/>
 
@@ -141,7 +141,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>

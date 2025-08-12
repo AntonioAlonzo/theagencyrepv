@@ -79,12 +79,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-bahia-de-banderas-nayama.php">
+                            <a href="properties-bahia-de-banderas-nayama">
                             <img src="images/properties/bahia-de-banderas/nayama/nayama-thumb.jpg" alt=" NAYAMA" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-bahia-de-banderas-nayama.php">
+                      <a href="properties-bahia-de-banderas-nayama">
                      NAYAMA
 
                       </a>
@@ -97,7 +97,7 @@ An honest, sensible and conscious proposal conformed by 48 exclusive residences 
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -111,12 +111,12 @@ An honest, sensible and conscious proposal conformed by 48 exclusive residences 
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-bahia-de-banderas-one-and-only.php">
+                            <a href="properties-bahia-de-banderas-one-and-only">
                             <img src="images/properties/bahia-de-banderas/one-only/one-only-thumb.jpg" alt="ONE & ONLY MANDARINA PRIVATE HOMES" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-bahia-de-banderas-one-and-only.php">
+                      <a href="properties-bahia-de-banderas-one-and-only">
                      ONE & ONLY MANDARINA PRIVATE HOMES
 
                       </a>
@@ -128,7 +128,7 @@ An honest, sensible and conscious proposal conformed by 48 exclusive residences 
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -147,12 +147,12 @@ An honest, sensible and conscious proposal conformed by 48 exclusive residences 
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-bahia-de-banderas-uavi-litibu.php">
+                            <a href="properties-bahia-de-banderas-uavi-litibu">
                             <img src="images/properties/bahia-de-banderas/uavi-litivu/uavi-litibu-thumb.jpg" alt="UAVI" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-bahia-de-banderas-uavi-litibu.php">
+                      <a href="properties-bahia-de-banderas-uavi-litibu">
                        UAVI<br>
                           A PRIVATE HABITAT AMIDST THE BEAUTY OF LITIBÚ
 
@@ -165,7 +165,7 @@ An honest, sensible and conscious proposal conformed by 48 exclusive residences 
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>

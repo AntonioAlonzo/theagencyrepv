@@ -75,12 +75,12 @@
 				<div class="row row-60">
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-peninsula-8a.php">
+							<a href="properties-puerto-vallarta-peninsula-8a">
 								<img src="images/properties/puerto-vallarta/peninsula-8a/cover.jpg" alt="Peninsula 8A" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-peninsula-8a.php">
+									<a href="properties-puerto-vallarta-peninsula-8a">
 										PENINSULA 8A<br>
 										PUERTO VALLARTA - PRICE $1,290,000 USD<br>
 										4 Beds | 4 Baths | 3,679.38 Sqft. | MLS #38236
@@ -91,7 +91,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -101,12 +101,12 @@
 
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-centrika-703.php">
+							<a href="properties-puerto-vallarta-centrika-703">
 								<img src="images/properties/puerto-vallarta/centrika-703/cover.jpg" alt="Centrika 703" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-centrika-703.php">
+									<a href="properties-puerto-vallarta-centrika-703">
 										CENTRIKA 703<br>
 										PUERTO VALLARTA - PRICE $455,000 USD<br>
 										3 Beds | 3 Baths | 1,396.21 Sqft. | MLS #37876
@@ -118,7 +118,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -127,12 +127,12 @@
 					</div>
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-villa-nube-blanca.php">
+							<a href="properties-puerto-vallarta-villa-nube-blanca">
 								<img src="images/properties/puerto-vallarta/villa-nube-blanca/Villa-Nube-Blanca.jpg" alt="Villa Nube Blanca" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-villa-nube-blanca.php">
+									<a href="properties-puerto-vallarta-villa-nube-blanca">
 										VILLA NUBE BLANCA<br>
 										PUERTO VALLARTA - PRICE $3,800,000 USD<br>
 										5 Beds | 7 Baths | 17,470 Sqft. | MLS #34987
@@ -144,7 +144,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -153,12 +153,12 @@
 					</div>
 					<div class="col-md-6 col-xl-6">
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-icon-ph.php">
+							<a href="properties-puerto-vallarta-icon-ph">
 								<img src="images/properties/puerto-vallarta/icon-ph-2-2805/ICON-PH-2-2805.jpg" alt="Icon PH 2-2805" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-icon-ph.php">
+									<a href="properties-puerto-vallarta-icon-ph">
 										ICON PH 2-2805<br>
 										PUERTO VALLARTA - PRICE $1,590,000 USD<br>
 										3 Beds | 4 Baths | 4,380 Sqft. | MLS #26479
@@ -170,7 +170,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										By Alejandro Aldrete
 									</a>
 								</div>
@@ -183,12 +183,12 @@
 					<div class="col-md-6 col-xl-6">
 						<!-- Post classic-->
 						<article class="post-classic post-minimal">
-							<a href="properties-bahia-de-banderas-one-and-only.php">
+							<a href="properties-bahia-de-banderas-one-and-only">
 								<img src="images/properties/bahia-de-banderas/one-only/one-only-thumb.jpg" alt="ONE & ONLY MANDARINA PRIVATE HOMES" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-bahia-de-banderas-one-and-only.php">
+									<a href="properties-bahia-de-banderas-one-and-only">
 										ONE & ONLY MANDARINA PRIVATE HOMES
 
 									</a>
@@ -200,7 +200,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										ALEJANDRO ALDRETE
 									</a>
 								</div>
@@ -220,12 +220,12 @@
 					<div class="col-md-6 col-xl-6">
 						<!-- Post classic-->
 						<article class="post-classic post-minimal">
-							<a href="properties-bahia-de-banderas-uavi-litibu.php">
+							<a href="properties-bahia-de-banderas-uavi-litibu">
 								<img src="images/properties/bahia-de-banderas/uavi-litivu/uavi-litibu-thumb.jpg" alt="UAVI" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-bahia-de-banderas-uavi-litibu.php">
+									<a href="properties-bahia-de-banderas-uavi-litibu">
 										UAVI<br>
 										A PRIVATE HABITAT AMIDST THE BEAUTY OF LITIBÚ
 
@@ -238,7 +238,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										ALEJANDRO ALDRETE
 									</a>
 								</div>
@@ -248,12 +248,12 @@
 					<div class="col-md-6 col-xl-6">
 						<!-- Post classic-->
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-colonial-502.php">
+							<a href="properties-puerto-vallarta-colonial-502">
 								<img src="images/properties/puerto-vallarta/colonial-502/colonial-ph-thumb.jpg" alt="Condo For Sale Puerto Vallarta,  BOLIVIA 1403 #502" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-colonial-502.php">
+									<a href="properties-puerto-vallarta-colonial-502">
 										CONDO FOR SALE<br>
 										BOLIVIA 1403 #502
 
@@ -266,7 +266,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-mauricio-ojeda.php">
+									<a class="meta-author" href="agent-mauricio-ojeda">
 										Mauricio Ojeda Medina
 									</a>
 								</div>
@@ -277,12 +277,12 @@
 					<div class="col-md-6 col-xl-6">
 						<!-- Post classic-->
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-peninsula-ph-a.php">
+							<a href="properties-puerto-vallarta-peninsula-ph-a">
 								<img src="images/properties/puerto-vallarta/ph-peninsula/ph-peninsula-thumb.jpg" alt=" PENINSULA PH-A PUERTO VALLARTA" width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-peninsula-ph-a.php">
+									<a href="properties-puerto-vallarta-peninsula-ph-a">
 										PENINSULA PH-A<br> PUERTO VALLARTA
 
 
@@ -295,7 +295,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alejandro-aldrete.php">
+									<a class="meta-author" href="agent-alejandro-aldrete">
 										ALEJANDRO ALDRETE
 									</a>
 								</div>
@@ -306,12 +306,12 @@
 					<div class="col-md-6 col-xl-6">
 						<!-- Post classic-->
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-joaquin-amaro.php">
+							<a href="properties-puerto-vallarta-joaquin-amaro">
 								<img src="images/properties/puerto-vallarta/joaquin-amaro/main-cover.jpg" alt="Casa Diego Puerto Vallarta " width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-joaquin-amaro.php">
+									<a href="properties-puerto-vallarta-joaquin-amaro">
 										CASA DIEGO<br>
 										520 JOAQUÍN AMARO, PUERTO VALLARTA, 48291
 
@@ -324,7 +324,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-alfonso-davalos.php">
+									<a class="meta-author" href="agent-alfonso-davalos">
 										By ALFONSO DAVALOS
 									</a>
 								</div>
@@ -339,12 +339,12 @@
 					<div class="col-md-6 col-xl-6">
 						<!-- Post classic-->
 						<article class="post-classic post-minimal">
-							<a href="properties-puerto-vallarta-icon-1-2201.php">
+							<a href="properties-puerto-vallarta-icon-1-2201">
 								<img src="images/properties/puerto-vallarta/icon-1-2201/icon-1-2201-cover.jpg" alt="Icon Vallarta " width="886" height="668" />
 							</a>
 							<div class="post-classic-title post-classic-title-icon">
 								<h6 class="text-center">
-									<a href="properties-puerto-vallarta-icon-1-2201.php">
+									<a href="properties-puerto-vallarta-icon-1-2201">
 										CONDO FOR SALE<br>
 										ICON VALLARTA 1-2201
 
@@ -357,7 +357,7 @@
 							</div>
 							<div class="post-meta">
 								<div class="group">
-									<a class="meta-author" href="agent-laura-chanes.php">
+									<a class="meta-author" href="agent-laura-chanes">
 										By Laura Chanes
 									</a>
 								</div>

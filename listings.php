@@ -74,12 +74,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-peninsula-ph-a.php">
+                            <a href="properties-puerto-vallarta-peninsula-ph-a">
                             <img src="images/properties/puerto-vallarta/ph-peninsula/ph-peninsula-thumb.jpg" alt=" PENINSULA PH-A PUERTO VALLARTA" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-peninsula-ph-a.php">
+                      <a href="properties-puerto-vallarta-peninsula-ph-a">
                         PENINSULA PH-A<br> PUERTO VALLARTA
 
 
@@ -92,7 +92,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -105,12 +105,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-522-hidalgo.php">
+                            <a href="properties-puerto-vallarta-522-hidalgo">
                             <img src="images/properties/puerto-vallarta/hidalgo-522/hidalgo-522-cover.jpg" alt=" Condo For Sale" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-522-hidalgo.php">
+                      <a href="properties-puerto-vallarta-522-hidalgo">
                         Condo For sale <br>Puerto Vallarta Down Town<br>
 
 
@@ -125,7 +125,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alfonso-davalos.php">
+                                    <a class="meta-author" href="agent-alfonso-davalos">
                           By ALFONSO DAVALOS
                       </a> </div>
                             </div>
@@ -146,12 +146,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-bolivia-5-dic.php">
+                            <a href="properties-puerto-vallarta-bolivia-5-dic">
                             <img src="images/properties/puerto-vallarta/bolivia/bolivia-thumb.jpg" alt="Condo For Sale Puerto Vallarta" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-bolivia-5-dic.php">
+                      <a href="properties-puerto-vallarta-bolivia-5-dic">
                         CONDO FOR SALE<br>
                         COLONIA 5 DE DICIEMBRE
 
@@ -164,7 +164,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-benjamin-molina.php">
+                                    <a class="meta-author" href="agent-benjamin-molina">
                         Benjamin Molina
                       </a> </div>
                             </div>
@@ -175,12 +175,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-colonial-502.php">
+                            <a href="properties-puerto-vallarta-colonial-502">
                             <img src="images/properties/puerto-vallarta/colonial-502/colonial-ph-thumb.jpg" alt="Condo For Sale Puerto Vallarta,  BOLIVIA 1403 #502" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-colonial-502.php">
+                      <a href="properties-puerto-vallarta-colonial-502">
                         CONDO FOR SALE<br>
                        BOLIVIA 1403 #502
 
@@ -193,7 +193,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-mauricio-ojeda.php">
+                                    <a class="meta-author" href="agent-mauricio-ojeda">
                        Mauricio Ojeda Medina
                       </a> </div>
                             </div>
@@ -206,12 +206,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-aquiles-serdan-424.php">
+                            <a href="properties-puerto-vallarta-aquiles-serdan-424">
                             <img src="images/properties/puerto-vallarta/aquiles-serdan/aquiles-cover.jpg" alt="Condo For Sale Puerto Vallarta" width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-aquiles-serdan-424.php">
+                      <a href="properties-puerto-vallarta-aquiles-serdan-424">
                         CONDO FOR SALE<br>
                          ROMANTIC ZONE
 
@@ -224,7 +224,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-christian-pierre.php">
+                                    <a class="meta-author" href="agent-christian-pierre">
                           Christian Bernardino
                       </a> </div>
                             </div>
@@ -237,12 +237,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-joaquin-amaro.php">
+                            <a href="properties-puerto-vallarta-joaquin-amaro">
                             <img src="images/properties/puerto-vallarta/joaquin-amaro/main-cover.jpg" alt="Casa Diego Puerto Vallarta " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-joaquin-amaro.php">
+                      <a href="properties-puerto-vallarta-joaquin-amaro">
                         CASA DIEGO<br>
                           520 JOAQUÍN AMARO, PUERTO VALLARTA, 48291
 
@@ -255,7 +255,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alfonso-davalos.php">
+                                    <a class="meta-author" href="agent-alfonso-davalos">
                           By ALFONSO DAVALOS
                       </a> </div>
                             </div>
@@ -269,12 +269,12 @@
               <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-icon-1-2201.php">
+                            <a href="properties-puerto-vallarta-icon-1-2201">
                             <img src="images/properties/puerto-vallarta/icon-1-2201/icon-1-2201-cover.jpg" alt="Icon Vallarta " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-icon-1-2201.php">
+                      <a href="properties-puerto-vallarta-icon-1-2201">
                          CONDO FOR SALE<br>
                           ICON VALLARTA 1-2201
 
@@ -287,7 +287,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-laura-chanes.php">
+                                    <a class="meta-author" href="agent-laura-chanes">
                           By Laura Chanes
                       </a> </div>
                             </div>
@@ -300,12 +300,12 @@
                   <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-icon-ph.php">
+                            <a href="properties-puerto-vallarta-icon-ph">
                             <img src="images/properties/puerto-vallarta/icon-vallarta/icon-ph-cover.jpg" alt="Icon Vallarta " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-icon-ph.php">
+                      <a href="properties-puerto-vallarta-icon-ph">
                           PENTHOUSE FOR SALE HOTEL ZONE PUERTO VALLARTA<br>
                           ICON PH 2805
 
@@ -319,7 +319,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>

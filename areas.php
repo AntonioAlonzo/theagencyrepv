@@ -65,7 +65,7 @@
 			<div class="container">
 				<div class="row row-50">
 					<div class="col-12 col-md-4">
-						<a href="listings-puerto-vallarta-area.php">
+						<a href="listings-puerto-vallarta-area">
 							<div class="img-thumbnail-variant-3">
 								<img src="images/areas/south-shore.jpg" alt="South Shore" width="652" height="491"/>
 							</div>

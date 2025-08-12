@@ -74,12 +74,12 @@
                   <div class="col-md-6 col-xl-12">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-puerto-vallarta-atun-gaviotas.php">
+                            <a href="properties-puerto-vallarta-atun-gaviotas">
                             <img src="images/properties/puerto-vallarta/atun-122/atun-122-thumb.jpg" alt=" Atún 122, Las Gaviotas." width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-puerto-vallarta-atun-gaviotas.php">
+                      <a href="properties-puerto-vallarta-atun-gaviotas">
                            122 Atún, Gaviotas
 
                       </a>
@@ -91,7 +91,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -126,7 +126,7 @@
              <div class="col-md-12 col-xl-12 text-center">
                         <!-- Post classic-->
 
-                             <a class="button button-primary" href="mls.php">SEARCH PROPERTIES BY MLS</a>
+                             <a class="button button-primary" href="mls">SEARCH PROPERTIES BY MLS</a>
 
 
                     </div>

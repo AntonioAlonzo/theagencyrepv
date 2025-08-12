@@ -51,12 +51,12 @@
                   <div class="col-md-6 col-xl-4">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-punta-de-mita-villa-verde.php">
+                            <a href="properties-punta-de-mita-villa-verde">
                             <img src="images/properties/punta-de-mita/villa-verde-azul/villa-verde-cover.jpg" alt="Villa Verde Azul Punta de Mita " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-punta-de-mita-villa-verde.php">
+                      <a href="properties-punta-de-mita-villa-verde">
                            VILLA VERDE AZUL PUNTA MITA
 
                       </a>
@@ -70,7 +70,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -83,12 +83,12 @@
                   <div class="col-md-6 col-xl-4">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-punta-de-mita-casa-cuixa-del-cielo.php">
+                            <a href="properties-punta-de-mita-casa-cuixa-del-cielo">
                             <img src="images/properties/punta-de-mita/casa-cuixa-del-cielo/casa-cuixa-del-cielo-cover.jpg" alt=" CASA CUIXA DEL CIELO PUNTA DE MITA." width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-punta-de-mita-casa-cuixa-del-cielo.php">
+                      <a href="properties-punta-de-mita-casa-cuixa-del-cielo">
                            CASA CUIXA DEL CIELO PUNTA DE MITA.
 
                       </a>
@@ -102,7 +102,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                    <a class="meta-author" href="agent-alejandro-aldrete">
                           By Alejandro Aldrete
                       </a> </div>
                             </div>
@@ -117,12 +117,12 @@
                   <div class="col-md-6 col-xl-4">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-tulum-ocean-tulum.php">
+                            <a href="properties-tulum-ocean-tulum">
                             <img src="images/properties/punta-de-mita/condo-bugambilias-los-veneros/condo-bugambilias-los-veneros-cover.jpg" alt="ocean tulum " width="886" height="668" />
                             </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-tulum-ocean-tulum.php">
+                      <a href="properties-tulum-ocean-tulum">
                         CONDO BUGAMBILIA, LOS VENEROS
 
                       </a>
@@ -136,7 +136,7 @@
                             </div>
                             <div class="post-meta">
                                 <div class="group">
-                                    <a class="meta-author" href="agent-sally-sudol.php">
+                                    <a class="meta-author" href="agent-sally-sudol">
                           By Sally Sudol
                       </a> </div>
                             </div>

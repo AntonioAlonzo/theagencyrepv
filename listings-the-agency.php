@@ -72,10 +72,10 @@
                     <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-california-sunset-plaza.php"> <img src="images/properties/1220-sunset-plaza/sunset-thumb.webp" alt="  1220 SUNSET PLAZA DR" width="886" height="668" /> </a>
+                            <a href="properties-california-sunset-plaza"> <img src="images/properties/1220-sunset-plaza/sunset-thumb.webp" alt="  1220 SUNSET PLAZA DR" width="886" height="668" /> </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-california-sunset-plaza.php">
+                      <a href="properties-california-sunset-plaza">
                     1220 SUNSET PLAZA DR
 
 
@@ -88,7 +88,7 @@
                                 <p class="text-justify">Presenting 1220 N Sunset Plaza Drive, a remarkable offering nestled in a prime location off the famed Sunset Strip. Encompassing 2.3 acres of beautifully landscaped groups, this unique opportunity provides an array of development possibilities, including the construction of multiple single family residences or multi-family residences.  </p>
                             </div>
                             <div class="post-meta">
-                                <div class="group"> <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                <div class="group"> <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -104,10 +104,10 @@
                     <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-careyes-casa-la-huerta.php"> <img src="images/properties/careyes/careyes/careyes-thumb.jpg" alt=" Home For sale Careyes" width="886" height="668" /> </a>
+                            <a href="properties-careyes-casa-la-huerta"> <img src="images/properties/careyes/careyes/careyes-thumb.jpg" alt=" Home For sale Careyes" width="886" height="668" /> </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-careyes-casa-la-huerta.php">
+                      <a href="properties-careyes-casa-la-huerta">
                     CASA LA HUERTA
 <br> CAREYES, JALISCO 48892
 
@@ -118,7 +118,7 @@
                                 <p class="text-justify"> A sanctuary of Surrealism honoring the luxury, lifestyle and natural world of Careyes. Be transported to a world where the ancient traditions of Mexican craftsmanship are blended with a futuristic approach to design. </p>
                             </div>
                             <div class="post-meta">
-                                <div class="group"> <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                <div class="group"> <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -127,10 +127,10 @@
                     <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-guadalajara-paseo-de-los-parques.php"> <img src="images/properties/guadalajara/paseo-parques/paseo-parques-thumb.jpg" alt=" PASEO DE LOS PARQUES 300GUADALAJARA" width="886" height="668" /> </a>
+                            <a href="properties-guadalajara-paseo-de-los-parques"> <img src="images/properties/guadalajara/paseo-parques/paseo-parques-thumb.jpg" alt=" PASEO DE LOS PARQUES 300GUADALAJARA" width="886" height="668" /> </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-guadalajara-paseo-de-los-parques.php">
+                      <a href="properties-guadalajara-paseo-de-los-parques">
                        PASEO DE LOS PARQUES 300<br> GUADALAJARA
 
 
@@ -140,7 +140,7 @@
                                 <p class="text-justify"> Esta increíble propiedad se encuentra ubicada en Colinas de San Javier, uno de los Fraccionamientos más exclusivos de la Ciudad, con una excelente ubicación, ya que se encuentra a solo unos minutos de Av. Acueducto, Av. Patria, Av. Universidad, Zona Andares, Plaza Pabellón, Bosque Los Colomos y Plaza Patria. </p>
                             </div>
                             <div class="post-meta">
-                                <div class="group"> <a class="meta-author" href="agent-alejandro-aldrete.php">
+                                <div class="group"> <a class="meta-author" href="agent-alejandro-aldrete">
                        ALEJANDRO ALDRETE
                       </a> </div>
                             </div>
@@ -149,10 +149,10 @@
                     <div class="col-md-6 col-xl-6">
                         <!-- Post classic-->
                         <article class="post-classic post-minimal">
-                            <a href="properties-riviera-maya-fairmont.php"> <img src="images/properties/riviera-maya/fairmont-mayakoba/fairmont-mayakoba-thumb.jpg" alt="FAIRMONT RESIDENCES" width="886" height="668" /> </a>
+                            <a href="properties-riviera-maya-fairmont"> <img src="images/properties/riviera-maya/fairmont-mayakoba/fairmont-mayakoba-thumb.jpg" alt="FAIRMONT RESIDENCES" width="886" height="668" /> </a>
                             <div class="post-classic-title post-classic-title-icon">
                                 <h6 class="text-center">
-                      <a href="properties-riviera-maya-fairmont.php">
+                      <a href="properties-riviera-maya-fairmont">
                         FAIRMONT RESIDENCES<br> RIVIERA MAYA<br>
 
 
@@ -162,7 +162,7 @@
                                 <p class="text-justify"> Fairmont Residences is a collection of masterfully designed residences and penthouses located amidst the lush greenery, lagoons and fairways of Mayakoba. Situated within private, boutique buildings, residences are available for full and fractional ownership. </p>
                             </div>
                             <div class="post-meta">
-                                <div class="group"> <a class="meta-author" href="agent-alfonso-davalos.php">
+                                <div class="group"> <a class="meta-author" href="agent-alfonso-davalos">
                           By ALFONSO DAVALOS
                       </a> </div>
                             </div>
